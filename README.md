@@ -215,7 +215,7 @@ Your new action will run any time a new commit is created or pushed to the remot
 1. Commit any change to your branch, such as adding an emoji to your README.md file.
 2. Create the pull request on your branch.
 3. See your action run on your pull request.
-4. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
+4. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one. 
 
 </details>
 
@@ -237,7 +237,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You learned where to make your workflow file.
 - You created an event trigger, a job, and steps for your workflow.
 - You're ready to automate anything you can dream of.
-
+-GG's
 ### What's next?
 
 - Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://docs.github.com/actions/learn-github-actions)".
